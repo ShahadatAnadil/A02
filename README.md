@@ -18,15 +18,15 @@ Part 1) Directions on using GitHub:
 
 
 PART 2) 
-Branch - An instruction that commands a computer to begin executing different instruction rather than simply executing the instructions in order.
-Clone - making a copy of an object.
-Commit - the process of submitting changes made to a code repository.
-Fetch - The retrieval of data using software programs, scripts, or even hardware.
-GIT - A version control system used for tracking changes in computer files.
-GitHub - a code ehosting platform for version control and collaboration.
-Merge - allows multiple developers to to make changes into their codebase.
-Merge Conflict - usually happens when you have competing commit. For example, when you change something and want to merge it but someone has made a different commit.
-Push - the way to transfer your code from where you created it to where it will be used.
-Pull - a style of network communication where the intial reuqest for data comes from the client which is then responded to by the server.
-Remote - conducted or working from usual workplace, making use of communications. So bascially, an authorized user being able to access server away from the main servers.
-Repository - a digital storage developers use to make and manage changes to an application's source code.
+- Branch - An instruction that commands a computer to begin executing different instruction rather than simply executing the instructions in order.
+- Clone - making a copy of an object.
+- Commit - the process of submitting changes made to a code repository.
+- Fetch - The retrieval of data using software programs, scripts, or even hardware.
+- GIT - A version control system used for tracking changes in computer files.
+- GitHub - a code ehosting platform for version control and collaboration.
+- Merge - allows multiple developers to to make changes into their codebase.
+- Merge Conflict - usually happens when you have competing commit. For example, when you change something and want to merge it but someone has made a different commit.
+- Push - the way to transfer your code from where you created it to where it will be used.
+- Pull - a style of network communication where the intial reuqest for data comes from the client which is then responded to by the server.
+- Remote - conducted or working from usual workplace, making use of communications. So bascially, an authorized user being able to access server away from the main servers.
+- Repository - a digital storage developers use to make and manage changes to an application's source code.
