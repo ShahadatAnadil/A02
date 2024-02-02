@@ -1,6 +1,6 @@
 # A02
 Part 1) Directions on using GitHub:
-- To start you to install a webstorm. You can isntall from: https://www.jetbrains.com/student/
+- To start you need to install a webstorm. You can isntall from: https://www.jetbrains.com/student/
 - Then you need to install Git as a local program. You download this from: https://git-scm.com/downloads
 - Create a GitHub account, you can do this by going to https://www.njit.edu/. You can input your information and sign up for free
 - Open up your webstorm, jetbrains and press ctrl+alt+s to open up system preferences. Select Verision control Git. Enter the path to your Git.exe file
